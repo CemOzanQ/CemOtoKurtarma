@@ -1,0 +1,177 @@
+div {
+  display: block;
+}
+.sil {
+  clear: both;
+}
+.ana {
+  width: %100;
+  height: auto;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(18, 18, 66);
+}
+.header {
+  width: %100;
+  height: 102px;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10000;
+  width: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99999;
+}
+.menudivi {
+  width: auto;
+  height: 102px;
+}
+.menu {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.menu a {
+  height: 102px;
+  display: block;
+  text-decoration: none;
+  line-height: 102px;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 30px;
+  color: #7f8795;
+  font-size: 15px;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+}
+.menu a:hover {
+  color: aqua;
+}
+.menu li {
+  float: right;
+}
+.logo {
+  float: left;
+}
+.logo img {
+  padding: 30px;
+}
+.icerik {
+  width: auto;
+  height: auto;
+  background-color: rgb(18, 18, 66);
+}
+.ism-slider {
+  margin: auto;
+  margin-top: 110px;
+  margin-bottom: 25px;
+}
+.divhakkimizda {
+  height: auto;
+}
+.divhakkimizdeorta {
+  background-color: white;
+  box-sizing: border-box;
+  padding-top: 22px;
+}
+.hakkimizdaresimdivi {
+  padding: 40px;
+  float: left;
+}
+.hakkimizdayazisi {
+  padding: 40px;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  display: block;
+}
+.hakkimizdayazisi h1 {
+  font-size: 60px;
+}
+.hakkimizdayazisi h4 {
+  font-size: 30px;
+}
+.hakkimizdayazisi p {
+  font-size: 25px;
+}
+.iletisim {
+  padding-top: 10px;
+  margin-top: -34px;
+  height: 700px;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  background-color: #ecedf1;
+}
+.iletisimara {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-right: 60px;
+  padding-left: 120px;
+  display: block;
+  text-align: center;
+  width: 250px;
+  height: 400px;
+  font-size: 20px;
+  float: left;
+}
+.iletisimmail {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-right: 70px;
+  padding-left: 120px;
+  display: block;
+  text-align: center;
+  width: 250px;
+  height: 400px;
+  font-size: 20px;
+  float: right;
+}
+.iletisimwhatsapp {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-right: 70px;
+  padding-left: 120px;
+  display: block;
+  text-align: center;
+  width: 250px;
+  height: 400px;
+  font-size: 20px;
+  float: left;
+}
+.iletisim p {
+  color: #89919f;
+}
+.iletisim h3 {
+  color: #494c50;
+}
+.iletisim h3:hover {
+  color: white;
+}
+.iletisim a {
+  text-decoration: none;
+}
+footer {
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+  background-color: rgb(202, 196, 196);
+  margin-top: -20px;
+  padding-bottom: 20px;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+.harita {
+  width: auto;
+  height: 750px;
+  background-color: rgb(18, 18, 66);
+  text-align: center;
+  line-height: 1200px;
+  margin-top: -100px;
+  margin-bottom: -100px;
+}
+.haritayazi {
+  padding-top: 100px;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #7f8795;
+}
